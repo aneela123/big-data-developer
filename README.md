@@ -22,7 +22,7 @@ I am not sure as to which career path I would like to choose yet, but I am inter
 - [GitHub](https://github.com/aneela123)
 
 ## Me
-![My Picture](C:\Users\S541988\OneDrive - nwmissouri.edu\Desktop)
+![My Picture](https://github.com/aneela123/big-data-developer/blob/main/Myimage.jpg)
 
 
 
