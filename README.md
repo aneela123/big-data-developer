@@ -1,6 +1,3 @@
-# big-data-developer
-
->This is my big data developer repo
 
 # Jahna Sri Aneela Ankam
 
@@ -22,7 +19,7 @@ I am not sure as to which career path I would like to choose yet, but I am inter
 - [GitHub](https://github.com/aneela123)
 
 ## Me
-![My Picture](https://github.com/aneela123/big-data-developer/blob/main/Myimage.jpg)
+![My Picture](https://github.com/aneela123/big-data-developer/blob/main/img.jpg)
 
 
 
